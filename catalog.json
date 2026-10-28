@@ -5,6 +5,24 @@
   "updated_at": "2026-10-28",
   "items": [
     {
+      "id": "fnaf1",
+      "title": "Five Nights at Freddy's",
+      "category": "HORROR SURVIVAL",
+      "version": "1.0.0-maldo1",
+      "description": "",
+      "architecture": "arm64",
+      "license": "Libre / autorizado",
+      "download_url": "https://github.com/MaldoShop/maldo-store-catalog/releases/download/maldo-fnaf1-v1-0-0-maldo1/fnaf1-1-0-0-maldo1.zip",
+      "sha256": "92a2942a317a4502447fadd67b16083334ab304af86225df2e7f396b5c9b0360",
+      "size_bytes": 0,
+      "source_url": "",
+      "cover_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/319510/library_600x900.jpg",
+      "requires_files": false,
+      "installable": true,
+      "package_format": "zip",
+      "updated_at": "2026-10-28"
+    },
+    {
       "id": "subwaysurfers",
       "title": "Subway Surfers",
       "category": "ARCADE",
