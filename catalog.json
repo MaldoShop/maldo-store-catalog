@@ -23,6 +23,24 @@
       "updated_at": "2026-10-28"
     },
     {
+      "id": "mslug5-neogeo",
+      "title": "Metal Slug 5",
+      "category": "ARCADE",
+      "version": "1.0.0",
+      "description": "¡Prepárate para la acción explosiva de **METAL SLUG 5**, el clásico arcade de SNK lanzado en 2003! 🔥\n\nEl Ejército Ptolemaico ha robado archivos confidenciales y tu misión será detenerlo. Elige entre cuatro personajes: Marco, Eri, Tarma o Fio, y atraviesa intensas batallas repletas de enemigos, vehículos y armamento.\n\n🚀 **Características principales:**\n- Acción arcade de disparos y desplazamiento lateral.\n- Cuatro personajes jugables.\n- El nuevo vehículo de combate **Slug Gunner**.\n- Mecánica de deslizamiento para esquivar ataques y avanzar.\n- Compatible con el sistema Neo Geo cuando se utiliza una ROM y BIOS compatibles con el emulador.\n\n🎮 **Sistema:** Neo Geo  \n👥 **Jugadores:** 1–2  \n📅 **Año de lanzamiento:** 2003\n\n¡Disfruta la adrenalina de uno de los clásicos de la saga Metal Slug!",
+      "architecture": "arm64",
+      "license": "Libre / autorizado",
+      "download_url": "https://github.com/MaldoShop/maldo-store-catalog/releases/download/maldo-mslug5-neogeo-v1-0-0/NEO5.zip",
+      "sha256": "61d91799282a9e19d2f7ab71330a15aeec6fe1556e80819e0bcf5bfc30f47437",
+      "size_bytes": 83028923,
+      "source_url": "",
+      "cover_url": "https://db.hfsplay.fr/files/2021/12/22/a82d7f8d-9dc5-4042-a463-25d254946cb5_OE8gPaS.jpg",
+      "requires_files": false,
+      "installable": true,
+      "package_format": "zip",
+      "updated_at": "2026-10-28"
+    },
+    {
       "id": "subwaysurfers",
       "title": "Subway Surfers",
       "category": "ARCADE",
