@@ -12,7 +12,7 @@
       "description": "🏃 **Subway Surfers – Port para consolas portátiles**\n\nDisfruta de Subway Surfers en tu consola portátil compatible con arquitectura ARM64.\n\n🎮 **Características:**\n- ✅ Versión 2.30.2 (NextOS Port).\n- ✅ Compatible con sistemas portátiles compatibles, como ArkOS y dArkOS.\n- ✅ Incluye lanzador, ejecutable y archivos auxiliares del port.\n- ✅ Incluye APK y herramienta de extracción de recursos.\n- ✅ Preparado para controles de consola portátil.\n\n⚙️ **Primer inicio:** el port puede necesitar extraer bibliotecas y recursos antes de ejecutar el juego. Este proceso requiere espacio libre adicional y puede tardar unos minutos.\n\n📌 **Compatibilidad:** el funcionamiento y el rendimiento dependen del firmware y la configuración de la consola.\n\n¡Corre, esquiva obstáculos y recoge monedas en Subway Surfers! 🪙🚆",
       "architecture": "arm64",
       "license": "Libre / autorizado",
-      "download_url": "https://github.com/MaldoShop/maldo-store-catalog/releases/download/maldo-subwaysurfers-v2-30-2-26120/puerto-subwaysurfers.zip",
+      "download_url": "https://github.com/MaldoShop/maldo-store-catalog/releases/download/maldo-subwaysurfers-v2-30-2-26120/subwaysurfers-port.zip",
       "sha256": "decf5fc55dd2e36c7b37d820fa9b20a795d90f29fa9e6095b4be96658cf9c6d3",
       "size_bytes": 142464014,
       "source_url": "",
