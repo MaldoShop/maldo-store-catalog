@@ -2,7 +2,7 @@
   "schema_version": 1,
   "store": "Maldo Store",
   "store_version": "0.3",
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-10-30",
   "items": [
     {
       "id": "fnaf1",
@@ -21,6 +21,26 @@
       "installable": true,
       "package_format": "zip",
       "updated_at": "2026-10-28"
+    },
+    {
+      "id": "gtasa",
+      "title": "GTA San Andreas",
+      "category": "Mundo Abierto",
+      "version": "Maldoshop Port",
+      "description": "GTA San Andreas Port by MaldoShop",
+      "architecture": "arm64",
+      "license": "Libre / autorizado",
+      "install_type": "port",
+      "system_folder": "ports",
+      "download_url": "https://github.com/MaldoShop/maldo-store-catalog/releases/download/gtasa-v1.0/gtasa.zip",
+      "sha256": "37BF8CA2C6E2D13ECCE178AE819D039DDC06FE07A78F45F150DB0AFACD7712CF",
+      "size_bytes": 0,
+      "source_url": "",
+      "cover_url": "https://images.tcdn.com.br/img/img_prod/684553/grand_theft_auto_san_andreas_gta_san_andreas_ps2_8727_1_c8bf44b370cfee984431bf6ca67a4d8f.jpg",
+      "requires_files": false,
+      "installable": true,
+      "package_format": "zip",
+      "updated_at": "2026-10-30"
     },
     {
       "id": "mslug2",
